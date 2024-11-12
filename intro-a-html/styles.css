@@ -1,0 +1,66 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 100%; 
+    max-width: 200px; 
+    border-radius: 15px;
+    width: 300px; 
+    height: auto; 
+  }
+
+  .contact-info {
+    border: 2px solid #f9f9f9;   
+    padding: 20px;                
+    margin: 20px;                 
+    background-color: #f9f9f9;    
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.about {
+    border: 2px solid #f9f9f9;   
+    padding: 20px;                
+    margin: 20px;                 
+    background-color: #f9f9f9;    
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.education {
+    border: 2px solid #f9f9f9;   
+    padding: 20px;                
+    margin: 20px;                 
+    background-color: #f9f9f9;    
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.hard {
+    border: 2px solid #f9f9f9;   
+    padding: 20px;                
+    margin: 20px;                 
+    background-color: #f9f9f9;    
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.soft {
+    border: 2px solid #f9f9f9;   
+    padding: 20px;                
+    margin: 20px;                 
+    background-color: #f9f9f9;    
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
+
+.idioms {
+    border: 2px solid #f9f9f9;   
+    padding: 20px;                
+    margin: 20px;                 
+    background-color: #f9f9f9;    
+    border-radius: 10px;          
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
+}
